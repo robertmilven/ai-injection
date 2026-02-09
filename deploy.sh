@@ -1,0 +1,17 @@
+#!/bin/bash
+echo "🚀 AI Injection Website"
+echo ""
+echo "📁 Files:"
+ls -la
+echo ""
+echo "🔗 DEPLOY TO NETLIFY:"
+echo "   1. Go to https://netlify.com/drop"
+echo "   2. Drag & drop THIS folder"
+echo "   3. Your site will be live!"
+echo ""
+echo "🔗 DEPLOY TO VERCEL:"
+echo "   1. Go to https://vercel.com/drop"  
+echo "   2. Drag & drop THIS folder"
+echo "   3. Your site will be live!"
+echo ""
+echo "✅ Done!"
